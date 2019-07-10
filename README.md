@@ -3,5 +3,7 @@
 
 Приоритетная номинация: Государственное управление - Разработать прототип ПО для анализа надежности контрагента при осуществлении госзакупок.
 
-Команда MIR  https://цифровойпрорыв.рф/hackathon/commands/3151/
+* Команда MIR https://цифровойпрорыв.рф/hackathon/commands/3151/
+* Группа Telegram решения задачи https://t.me/mirleadersofdigital
 
+![mir_command](https://github.com/mir-one/leadersofdigital/raw/master/mir_command.png)
